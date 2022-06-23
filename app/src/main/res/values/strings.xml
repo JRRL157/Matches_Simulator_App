@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DIO - Matches Simulator</string>
+    <string name="cd_home_team_img">Home Team Image</string>
+    <string name="txt_versus" translatable="false">X</string>
+    <string name="cd_away_team_img">Away Team Image</string>
 </resources>
